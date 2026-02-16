@@ -6,14 +6,14 @@ CN:
 
 只是单纯的为了某些就是想用非英语作为文件夹名字的用户而已，说实话我个人觉得这玩意也没啥用:)
 
-# 使用方法
+## 使用方法
 1. 下载run.bat并放在你想要设置别名的文件夹中
 2. 双击运行run.bat
 3. 输入你想要设置的别名（理论上来说可以是任何语言）
 4. 按回车键确认
 5. 你会看到一个提示，说明别名已设置成功
 
-# 提示
+## 提示
 - 更改工具后会强制重启资源管理器以应用更改，所以请确保在运行工具之前保存所有工作:)
 
 EN:
@@ -22,7 +22,7 @@ This tool only changes the display name of Windows folders, not the physical pat
 
 It's just for users who want to use non-English names for their folders. Honestly, I don't think this tool is very useful :)
 
-# Usage
+## Usage
 1. Download run.bat and place it in the folder you want to set an alias for.
 2. Double-click run.bat to run it.
 3. Enter the alias you want to set (theoretically, it can be in any language).
@@ -30,5 +30,5 @@ It's just for users who want to use non-English names for their folders. Honestl
 5. You will see a prompt indicating that the alias has been set successfully.
 
 
-# Tips
+## Tips
 Note: After changing the tool, it will force restart File Explorer to apply the changes, so make sure to save all your work before running the tool :)
