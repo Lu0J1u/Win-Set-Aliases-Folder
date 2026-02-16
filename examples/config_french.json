@@ -1,0 +1,29 @@
+{
+  "description": "Example configuration for localizing common Windows folders to French",
+  "folders": [
+    {
+      "path": "%USERPROFILE%\\Documents",
+      "display_name": "Documents"
+    },
+    {
+      "path": "%USERPROFILE%\\Downloads",
+      "display_name": "Téléchargements"
+    },
+    {
+      "path": "%USERPROFILE%\\Pictures",
+      "display_name": "Images"
+    },
+    {
+      "path": "%USERPROFILE%\\Videos",
+      "display_name": "Vidéos"
+    },
+    {
+      "path": "%USERPROFILE%\\Music",
+      "display_name": "Musique"
+    },
+    {
+      "path": "%USERPROFILE%\\Desktop",
+      "display_name": "Bureau"
+    }
+  ]
+}

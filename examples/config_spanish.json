@@ -1,0 +1,29 @@
+{
+  "description": "Example configuration for localizing common Windows folders to Spanish",
+  "folders": [
+    {
+      "path": "%USERPROFILE%\\Documents",
+      "display_name": "Documentos"
+    },
+    {
+      "path": "%USERPROFILE%\\Downloads",
+      "display_name": "Descargas"
+    },
+    {
+      "path": "%USERPROFILE%\\Pictures",
+      "display_name": "Imágenes"
+    },
+    {
+      "path": "%USERPROFILE%\\Videos",
+      "display_name": "Vídeos"
+    },
+    {
+      "path": "%USERPROFILE%\\Music",
+      "display_name": "Música"
+    },
+    {
+      "path": "%USERPROFILE%\\Desktop",
+      "display_name": "Escritorio"
+    }
+  ]
+}

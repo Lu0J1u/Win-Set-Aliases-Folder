@@ -1,0 +1,29 @@
+{
+  "description": "Example configuration for localizing common Windows folders to Chinese (Simplified)",
+  "folders": [
+    {
+      "path": "%USERPROFILE%\\Documents",
+      "display_name": "文档"
+    },
+    {
+      "path": "%USERPROFILE%\\Downloads",
+      "display_name": "下载"
+    },
+    {
+      "path": "%USERPROFILE%\\Pictures",
+      "display_name": "图片"
+    },
+    {
+      "path": "%USERPROFILE%\\Videos",
+      "display_name": "视频"
+    },
+    {
+      "path": "%USERPROFILE%\\Music",
+      "display_name": "音乐"
+    },
+    {
+      "path": "%USERPROFILE%\\Desktop",
+      "display_name": "桌面"
+    }
+  ]
+}
