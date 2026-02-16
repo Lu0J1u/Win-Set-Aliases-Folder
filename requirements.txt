@@ -1,0 +1,2 @@
+# Win-Folder-Localizer uses only Python standard library
+# No external dependencies required

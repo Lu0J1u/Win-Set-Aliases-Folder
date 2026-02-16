@@ -1,0 +1,29 @@
+{
+  "description": "Example configuration for localizing common Windows folders to Japanese",
+  "folders": [
+    {
+      "path": "%USERPROFILE%\\Documents",
+      "display_name": "ドキュメント"
+    },
+    {
+      "path": "%USERPROFILE%\\Downloads",
+      "display_name": "ダウンロード"
+    },
+    {
+      "path": "%USERPROFILE%\\Pictures",
+      "display_name": "画像"
+    },
+    {
+      "path": "%USERPROFILE%\\Videos",
+      "display_name": "ビデオ"
+    },
+    {
+      "path": "%USERPROFILE%\\Music",
+      "display_name": "ミュージック"
+    },
+    {
+      "path": "%USERPROFILE%\\Desktop",
+      "display_name": "デスクトップ"
+    }
+  ]
+}

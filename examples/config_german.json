@@ -1,0 +1,29 @@
+{
+  "description": "Example configuration for localizing common Windows folders to German",
+  "folders": [
+    {
+      "path": "%USERPROFILE%\\Documents",
+      "display_name": "Dokumente"
+    },
+    {
+      "path": "%USERPROFILE%\\Downloads",
+      "display_name": "Downloads"
+    },
+    {
+      "path": "%USERPROFILE%\\Pictures",
+      "display_name": "Bilder"
+    },
+    {
+      "path": "%USERPROFILE%\\Videos",
+      "display_name": "Videos"
+    },
+    {
+      "path": "%USERPROFILE%\\Music",
+      "display_name": "Musik"
+    },
+    {
+      "path": "%USERPROFILE%\\Desktop",
+      "display_name": "Desktop"
+    }
+  ]
+}
